@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="169">
+        <Placemark id="171">
+            <name>ncep_pes_1</name>
+            <Point id="170">
+                <coordinates>0.4012455,52.4872562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>ncep_pes_2</name>
+            <Point id="172">
+                <coordinates>0.7906532,52.8776682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>ncep_pes_3</name>
+            <Point id="174">
+                <coordinates>-0.2640343,52.1354277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>ncep_pes_4</name>
+            <Point id="176">
+                <coordinates>-0.1267052,52.4880497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>ncep_pes_5</name>
+            <Point id="178">
+                <coordinates>0.6588173,51.9563696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>ncep_pes_6</name>
+            <Point id="180">
+                <coordinates>1.3894081,52.2499177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>ncep_pes_7</name>
+            <Point id="182">
+                <coordinates>1.3509559,52.6416477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>ncep_pes_8</name>
+            <Point id="184">
+                <coordinates>0.7082557,52.2700912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>ncep_pes_9</name>
+            <Point id="186">
+                <coordinates>0.1534462,52.1960768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>ncep_pes_10</name>
+            <Point id="188">
+                <coordinates>0.7302284,52.7082618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>ncep_pes_11</name>
+            <Point id="190">
+                <coordinates>1.0762977,52.4043468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>ncep_pes_12</name>
+            <Point id="192">
+                <coordinates>1.1751747,52.0679429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>ncep_pes_13</name>
+            <Point id="194">
+                <coordinates>0.2962684,52.024023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>ncep_pes_14</name>
+            <Point id="196">
+                <coordinates>0.1699257,52.7681276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>ncep_pes_15</name>
+            <Point id="198">
+                <coordinates>0.9115028,51.8750506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>ncep_pes_16</name>
+            <Point id="200">
+                <coordinates>0.7137489,52.5582373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>ncep_pes_17</name>
+            <Point id="202">
+                <coordinates>0.1204872,52.4478922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>ncep_pes_18</name>
+            <Point id="204">
+                <coordinates>1.5706825,52.5214863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>ncep_pes_19</name>
+            <Point id="206">
+                <coordinates>1.1916542,52.8776682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>ncep_pes_20</name>
+            <Point id="208">
+                <coordinates>-0.0113488,52.0780721,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

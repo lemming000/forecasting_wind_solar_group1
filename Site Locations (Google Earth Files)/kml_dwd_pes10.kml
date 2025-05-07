@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="91">
+        <Placemark id="93">
+            <name>dwd_pes_1</name>
+            <Point id="92">
+                <coordinates>0.4012455,52.4872562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>dwd_pes_2</name>
+            <Point id="94">
+                <coordinates>0.7906532,52.8776682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>dwd_pes_3</name>
+            <Point id="96">
+                <coordinates>-0.2640343,52.1354277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>dwd_pes_4</name>
+            <Point id="98">
+                <coordinates>-0.1267052,52.4880497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>dwd_pes_5</name>
+            <Point id="100">
+                <coordinates>0.6588173,51.9563696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>dwd_pes_6</name>
+            <Point id="102">
+                <coordinates>1.3894081,52.2499177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>dwd_pes_7</name>
+            <Point id="104">
+                <coordinates>1.3509559,52.6416477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>dwd_pes_8</name>
+            <Point id="106">
+                <coordinates>0.7082557,52.2700912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>dwd_pes_9</name>
+            <Point id="108">
+                <coordinates>0.1534462,52.1960768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>dwd_pes_10</name>
+            <Point id="110">
+                <coordinates>0.7302284,52.7082618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>dwd_pes_11</name>
+            <Point id="112">
+                <coordinates>1.0762977,52.4043468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>dwd_pes_12</name>
+            <Point id="114">
+                <coordinates>1.1751747,52.0679429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>dwd_pes_13</name>
+            <Point id="116">
+                <coordinates>0.2962684,52.024023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>dwd_pes_14</name>
+            <Point id="118">
+                <coordinates>0.1699257,52.7681276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>dwd_pes_15</name>
+            <Point id="120">
+                <coordinates>0.9115028,51.8750506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>dwd_pes_16</name>
+            <Point id="122">
+                <coordinates>0.7137489,52.5582373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>dwd_pes_17</name>
+            <Point id="124">
+                <coordinates>0.1204872,52.4478922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>dwd_pes_18</name>
+            <Point id="126">
+                <coordinates>1.5706825,52.5214863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>dwd_pes_19</name>
+            <Point id="128">
+                <coordinates>1.1916542,52.8776682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>dwd_pes_20</name>
+            <Point id="130">
+                <coordinates>-0.0113488,52.0780721,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

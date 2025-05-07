@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="149">
+        <Placemark id="151">
+            <name>ncep_hornsea_1</name>
+            <Point id="150">
+                <coordinates>1.522,53.59,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>ncep_hornsea_2</name>
+            <Point id="152">
+                <coordinates>1.772,53.59,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>ncep_hornsea_3</name>
+            <Point id="154">
+                <coordinates>2.022,53.59,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>ncep_hornsea_4</name>
+            <Point id="156">
+                <coordinates>1.522,53.84,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>ncep_hornsea_5</name>
+            <Point id="158">
+                <coordinates>1.772,53.84,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>ncep_hornsea_6</name>
+            <Point id="160">
+                <coordinates>2.022,53.84,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>ncep_hornsea_7</name>
+            <Point id="162">
+                <coordinates>1.522,54.09,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>ncep_hornsea_8</name>
+            <Point id="164">
+                <coordinates>1.772,54.09,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>ncep_hornsea_9</name>
+            <Point id="166">
+                <coordinates>2.022,54.09,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

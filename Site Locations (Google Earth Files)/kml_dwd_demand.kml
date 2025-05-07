@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>dwd_demand_1</name>
+            <Point id="2">
+                <coordinates>-0.451,51.479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>dwd_demand_2</name>
+            <Point id="4">
+                <coordinates>-2.6,51.453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>dwd_demand_3</name>
+            <Point id="6">
+                <coordinates>-1.926,52.449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>dwd_demand_4</name>
+            <Point id="8">
+                <coordinates>-2.986,53.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>dwd_demand_5</name>
+            <Point id="10">
+                <coordinates>-4.264,55.86,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>dwd_demand_6</name>
+            <Point id="12">
+                <coordinates>-0.442,53.875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>dwd_demand_7</name>
+            <Point id="14">
+                <coordinates>-1.533,54.297,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

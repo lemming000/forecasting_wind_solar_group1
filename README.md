@@ -5,25 +5,28 @@ The model is evaluated using 5-fold cross-validation and performance metrics.
 
 ## Project Overview
 
-Goal: Predict the wind and solar energy production from weather data using machine learning.
-Model Used: LightGBM Regressor.
-Evaluation: Mean Pinball Loss and cross-validation techniques are used for evaluation.
-Data Processing: Involves handling NetCDF data, managing datetime fields, and aggregating over spatial dimensions.
+- **Goal**: Predict the wind and solar energy production from weather data using machine learning.  
+- **Model Used**: LightGBM Regressor  
+- **Evaluation**: Mean Pinball Loss and cross-validation techniques  
+- **Data Processing**: Handling NetCDF data, managing datetime fields, aggregating over spatial dimensions
 
 ## Data Requirements
 
 This repository does not include the datasets due to size. You'll need to obtain them separately:
 
-4 NetCDF (.nc) files:
-dwd_icon_eu_hornsea_1_20200920_20231027.nc,
-dwd_icon_eu_pes10_20200920_20231027.nc,
-ncep_gfs_hornsea_1_20200920_20231027.nc,
-ncep_gfs_pes10_20200920_20231027.nc.
+### 4 NetCDF (`.nc`) files:
 
-1 CSV (.csv) file:
-Energy_Data_20200920_20231027.csv.
+- `dwd_icon_eu_hornsea_1_20200920_20231027.nc`  
+- `dwd_icon_eu_pes10_20200920_20231027.nc`  
+- `ncep_gfs_hornsea_1_20200920_20231027.nc`  
+- `ncep_gfs_pes10_20200920_20231027.nc`
 
-Please download them from the IEEE DataPort: https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition
+### 1 CSV (`.csv`) file:
+
+- `Energy_Data_20200920_20231027.csv`
+
+Download the datasets from the IEEE DataPort:  
+[https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition](https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition)
 
 ## Setup Instructions
 
@@ -32,8 +35,10 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-Open and run the notebook:
+Open and run the main notebook:
+
 model_lgbm.ipynb
+
 This notebook handles data loading, preprocessing, model training, and evaluation.
 
 ## Project Structure
@@ -49,5 +54,7 @@ This notebook handles data loading, preprocessing, model training, and evaluatio
 ## Contributors
 
 Guilherme Lopes
+
 François de Nailly
+
 Lena Kühn

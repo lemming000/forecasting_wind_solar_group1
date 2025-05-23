@@ -28,6 +28,8 @@ This repository does not include the datasets due to size. You'll need to obtain
 Download the datasets from the IEEE DataPort:  
 [https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition](https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition)
 
+After downloading, place them in the project folder, in the same place as `model_lgbm.ipynb`.
+
 ## Setup Instructions
 
 Install dependencies with:  
@@ -39,9 +41,7 @@ Open and run the main notebook:
 - `model_lgbm.ipynb`
 This notebook handles data loading, preprocessing, model training, and evaluation.
 
-## Project Structure
-
-``` ├── dwd_icon_eu_hornsea_1_20200920_20231027.nc # Data ├── dwd_icon_eu_pes10_20200920_20231027.nc # Data ├── ncep_gfs_hornsea_1_20200920_20231027.nc # Data ├── ncep_gfs_pes10_20200920_20231027.nc # Data ├── model_lgbm.ipynb # Main Jupyter notebook ├── site_locations.csv # Site coordinates or metadata (assumed format) ├── .gitignore # Git ignore rules ├── requirements.txt # Python dependencies └── README.md # You're reading this ``` 
+<pre><code>## Project Structure ``` ├── .gitignore ├── README.md ├── requirements.txt ├── model_lgbm.ipynb ├── site_locations.csv ├── dwd_icon_eu_hornsea_1_20200920_20231027.nc ├── dwd_icon_eu_pes10_20200920_20231027.nc ├── ncep_gfs_hornsea_1_20200920_20231027.nc └── ncep_gfs_pes10_20200920_20231027.nc ``` - `.ipynb` – Main Jupyter notebook - `.csv` – Site coordinates or metadata - `.nc` – Weather data files - `.gitignore`, `requirements.txt`, `README.md` – Config and documentation </code></pre>
 
 ├── dwd_icon_eu_hornsea_1_20200920_20231027.nc      # Data
 ├── dwd_icon_eu_pes10_20200920_20231027.nc          # Data

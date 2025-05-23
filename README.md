@@ -30,6 +30,19 @@ Download the datasets from the IEEE DataPort:
 
 After downloading, place them in the project folder, in the same place as `model_lgbm.ipynb`.
 
+The project structure should then look like this:
+
+forecasting_wind_solar_group1  
+├── Energy_Data_20200920_20231027.csv  
+├── dwd_icon_eu_hornsea_1_20200920_20231027.nc  
+├── dwd_icon_eu_pes10_20200920_20231027.nc  
+├── ncep_gfs_hornsea_1_20200920_20231027.nc  
+├── ncep_gfs_pes10_20200920_20231027.nc  
+├── Site Locations (Google Earth Files)/     
+├── README.md  
+├── model_lgbm.ipynb  
+└── requirements.txt
+
 ## Setup Instructions
 
 Install dependencies with:  
@@ -39,26 +52,7 @@ pip install -r requirements.txt
 
 Open and run the main notebook:
 - `model_lgbm.ipynb`
-This notebook handles data loading, preprocessing, model training, and evaluation.
-
-## Project Structure
-
-forecasting_wind_solar_group1  
-├── Energy_Data_20200920_20231027.csv  
-├── dwd_icon_eu_hornsea_1_20200920_20231027.nc  
-├── dwd_icon_eu_pes10_20200920_20231027.nc  
-├── ncep_gfs_hornsea_1_20200920_20231027.nc  
-├── ncep_gfs_pes10_20200920_20231027.nc  
-├── Site Locations (Google Earth Files)/  
-│   ├── kml_dwd_demand.kml  
-│   ├── kml_dwd_hornsea_1.kml  
-│   ├── kml_dwd_pes10.kml  
-│   ├── kml_ncep_demand.kml  
-│   ├── kml_ncep_hornsea_1.kml  
-│   └── kml_ncep_pes10.kml    
-├── README.md  
-├── model_lgbm.ipynb  
-└── requirements.txt 
+This notebook handles data loading, preprocessing, model training, and evaluation. 
 
 
 ## Contributors

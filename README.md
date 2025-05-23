@@ -30,15 +30,13 @@ Download the datasets from the IEEE DataPort:
 
 ## Setup Instructions
 
-Install dependencies:
+Install dependencies with:  
 pip install -r requirements.txt
 
 ## Getting Started
 
 Open and run the main notebook:
-
-model_lgbm.ipynb
-
+- `model_lgbm.ipynb`
 This notebook handles data loading, preprocessing, model training, and evaluation.
 
 ## Project Structure
@@ -51,10 +49,10 @@ This notebook handles data loading, preprocessing, model training, and evaluatio
 ├── README.md                                       # You're reading this
 └── requirements.txt                                # Python dependencies
 
+
 ## Contributors
 
-Guilherme Lopes
+- Guilherme Lopes
+- François de Nailly
+- Lena Kühn
 
-François de Nailly
-
-Lena Kühn

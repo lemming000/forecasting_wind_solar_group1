@@ -50,8 +50,7 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-Open and run the main notebook:
-- `model_lgbm.ipynb`
+Open and run the main notebook `model_lgbm.ipynb`.  
 This notebook handles data loading, preprocessing, model training, and evaluation. 
 
 

@@ -41,6 +41,8 @@ This notebook handles data loading, preprocessing, model training, and evaluatio
 
 ## Project Structure
 
+``` ├── dwd_icon_eu_hornsea_1_20200920_20231027.nc # Data ├── dwd_icon_eu_pes10_20200920_20231027.nc # Data ├── ncep_gfs_hornsea_1_20200920_20231027.nc # Data ├── ncep_gfs_pes10_20200920_20231027.nc # Data ├── model_lgbm.ipynb # Main Jupyter notebook ├── site_locations.csv # Site coordinates or metadata (assumed format) ├── .gitignore # Git ignore rules ├── requirements.txt # Python dependencies └── README.md # You're reading this ``` 
+
 ├── dwd_icon_eu_hornsea_1_20200920_20231027.nc      # Data
 ├── dwd_icon_eu_pes10_20200920_20231027.nc          # Data
 ├── ncep_gfs_hornsea_1_20200920_20231027.nc         # Data

@@ -41,15 +41,15 @@ Open and run the main notebook:
 - `model_lgbm.ipynb`
 This notebook handles data loading, preprocessing, model training, and evaluation.
 
-<pre><code>## Project Structure ``` ├── .gitignore ├── README.md ├── requirements.txt ├── model_lgbm.ipynb ├── site_locations.csv ├── dwd_icon_eu_hornsea_1_20200920_20231027.nc ├── dwd_icon_eu_pes10_20200920_20231027.nc ├── ncep_gfs_hornsea_1_20200920_20231027.nc └── ncep_gfs_pes10_20200920_20231027.nc ``` - `.ipynb` – Main Jupyter notebook - `.csv` – Site coordinates or metadata - `.nc` – Weather data files - `.gitignore`, `requirements.txt`, `README.md` – Config and documentation </code></pre>
+## Project Structure
 
-├── dwd_icon_eu_hornsea_1_20200920_20231027.nc      # Data
-├── dwd_icon_eu_pes10_20200920_20231027.nc          # Data
-├── ncep_gfs_hornsea_1_20200920_20231027.nc         # Data
-├── ncep_gfs_pes10_20200920_20231027.nc             # Data
-├── model_lgbm.ipynb                                # Main Jupyter notebook
-├── README.md                                       # You're reading this
-└── requirements.txt                                # Python dependencies
+├── dwd_icon_eu_hornsea_1_20200920_20231027.nc      # Data  
+├── dwd_icon_eu_pes10_20200920_20231027.nc          # Data  
+├── ncep_gfs_hornsea_1_20200920_20231027.nc         # Data  
+├── ncep_gfs_pes10_20200920_20231027.nc             # Data  
+├── model_lgbm.ipynb                                # Main Jupyter notebook  
+├── README.md                                       # You're reading this  
+└── requirements.txt                                # Python dependencies  
 
 
 ## Contributors

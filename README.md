@@ -43,13 +43,22 @@ This notebook handles data loading, preprocessing, model training, and evaluatio
 
 ## Project Structure
 
-├── dwd_icon_eu_hornsea_1_20200920_20231027.nc      # Data  
-├── dwd_icon_eu_pes10_20200920_20231027.nc          # Data  
-├── ncep_gfs_hornsea_1_20200920_20231027.nc         # Data  
-├── ncep_gfs_pes10_20200920_20231027.nc             # Data  
-├── model_lgbm.ipynb                                # Main Jupyter notebook  
-├── README.md                                       # You're reading this  
-└── requirements.txt                                # Python dependencies  
+forecasting_wind_solar_group1  
+├── Energy_Data_20200920_20231027.csv  
+├── dwd_icon_eu_hornsea_1_20200920_20231027.nc  
+├── dwd_icon_eu_pes10_20200920_20231027.nc  
+├── ncep_gfs_hornsea_1_20200920_20231027.nc  
+├── ncep_gfs_pes10_20200920_20231027.nc  
+├── Site Locations (Google Earth Files)/  
+│   ├── kml_dwd_demand.kml  
+│   ├── kml_dwd_hornsea_1.kml  
+│   ├── kml_dwd_pes10.kml  
+│   ├── kml_ncep_demand.kml  
+│   ├── kml_ncep_hornsea_1.kml  
+│   └── kml_ncep_pes10.kml    
+├── README.md  
+├── model_lgbm.ipynb  
+└── requirements.txt 
 
 
 ## Contributors

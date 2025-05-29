@@ -40,6 +40,7 @@ forecasting_wind_solar_group1
 ├── ncep_gfs_pes10_20200920_20231027.nc  
 ├── Site Locations (Google Earth Files)/     
 ├── README.md  
+├── LICENSE  
 ├── model_lgbm.ipynb  
 └── requirements.txt
 
@@ -64,3 +65,16 @@ This notebook handles data loading, preprocessing, model training, and evaluatio
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Licenses of Dependencies
+
+This project uses the following open-source Python packages:
+
+- [pandas](https://pandas.pydata.org/) – BSD 3-Clause License
+- [xarray](https://xarray.dev/) – Apache License 2.0
+- [numpy](https://numpy.org/) – BSD License
+- [scikit-learn](https://scikit-learn.org/) – BSD 3-Clause License
+- [matplotlib](https://matplotlib.org/) – Python Software Foundation License
+- [lightgbm](https://lightgbm.readthedocs.io/) – MIT License
+- [seaborn](https://seaborn.pydata.org/) – BSD License
+
+All packages are used in accordance with their respective licenses for non-commercial academic purposes.

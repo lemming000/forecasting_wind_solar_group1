@@ -60,3 +60,7 @@ This notebook handles data loading, preprocessing, model training, and evaluatio
 - François de Nailly
 - Lena Kühn
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
